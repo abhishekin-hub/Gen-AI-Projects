@@ -1,0 +1,7 @@
+streamlit
+langchain
+PyPDF2
+langchain_openai
+langchain_chroma
+langchain_core
+langchain-text-splitters
